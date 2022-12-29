@@ -1,8 +1,15 @@
 
-**Problem Statement**
 
+## Problem Statement
 Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travelers saying that flight ticket prices are so unpredictable. As data scientists, we are gonna prove that given the right data anything can be predicted. Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities. Size of training set: 10683 records
 
+
+
+## Dataset
+This Dataset is openly available on kaggle
+```bash
+  https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
+```
 Size of test set: 2671 records
 
 FEATURES: Airline: The name of the airline.
@@ -27,25 +34,6 @@ Additional_Info: Additional information about the flight
 
 Price: The price of the ticket
 
-
-# Flight Fare Prediction Internship project
-
-This README file gives you detailed description and the flow of the project.
-
-
-
-
-## Problem Statement
-Travelling through flights has become an integral part of today’s lifestyle as more and more people are opting for faster travelling options. The flight ticket prices increase or decrease every now and then depending on various factors like timing of the flights,
-destination, and duration of flights various occasions such as vacations or festive season. Therefore, having some basic idea of the flight fares before planning the trip will surely help many people save money and time. The main goal is to predict the fares of the flights based on different factors available in the provided dataset.
-
-
-
-## Dataset
-This Dataset is openly available on kaggle
-```bash
-  https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
-```
 ## Tech Stack
 
 **Programming Languages:** Python
@@ -94,7 +82,6 @@ Steps to deploy the application on AWS:
 ```
 
 ## Demo
-http://ec2-3-133-86-150.us-east-2.compute.amazonaws.com:8080/
 
 ## Authors
 
