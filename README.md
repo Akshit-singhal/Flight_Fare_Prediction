@@ -66,21 +66,6 @@ The backend of this entire project is written in the flask which is the micro-we
 The frontend of this application is written in the HTML which will be receving the information from the user.
 ## Deployment
 
-This project is deployed on AWS which is the cloud platform by amazon.
-
-
-```bash
-Steps to deploy the application on AWS:
-• Create an AWS account
-• Create an EC2 instance
-• Edit security group
-• Download the keygen (.pem file)
-• Download and install Putty and WinSCP
-• Install packages on EC2 using putty
-• Finally run app.py command
-
-```
-
 ## Demo
 
 ## Authors
